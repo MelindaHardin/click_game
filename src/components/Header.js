@@ -9,7 +9,8 @@ const styles = {
   head: {
     fontFamily: "Impact, Charcoal, sans-serif",
     fontWeight: 50,
-    fontSize: 50
+    fontSize: 50,
+    padding: 50
   },
 
   sub: {

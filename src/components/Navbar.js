@@ -4,7 +4,9 @@ const styles = {
   top: {
     backgroundColor: "orange",
     height: 75, 
-    textAlign: "center"
+    width: "100%",
+    textAlign: "center",
+    position: "fixed"
   },
 
   home: {
