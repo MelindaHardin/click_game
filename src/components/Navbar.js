@@ -1,26 +1,28 @@
 import React from "react";
 
+const styles = {
+  top: {
+    backgroundColor: "yellow",
+    height: 75, 
+    textAlign: "center"
+  },
+
+  home: {
+    fontFamily: "Impact, Charcoal, sans-serif",
+    fontWeight: 50,
+    fontSize: 20
+
+  }
+
+}
+
+
 const Navbar = () => (
-  <div class="bootstrapNav">
-
-
-    <mdb-navbar SideClass="navbar navbar-expand-lg navbar-dark indigo">
-      <logo>
-        <a class="navbar-brand" href="/">Click Game!</a>
-      </logo>
-
-      <span class="navbar-text white-text title">
-        Click an Image to Begin!
-      </span>
-
-      <span class="navbar-text white-text score">
-        Score:
-      </span>
-
-    </mdb-navbar>
-
-  
-  </div>
+  <nav class="navbar navbar-light bg-light" style={styles.top}>
+    <a class="navbar-brand" href="/" style={styles.home}>Click Game!</a>
+    <p class ="title">Click an image to begin!</p>
+    <p class ="score">Score: 0 | Top Score: 0 </p>
+  </nav>
 );
 
 export default Navbar;
