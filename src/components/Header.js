@@ -16,9 +16,7 @@ const styles = {
     fontFamily: "Impact, Charcoal, sans-serif",
     fontSize: 15, 
     fontWeight: 20
-
   }
-
 }
 const Header = () => (
   <div class="bootstrapJumbo" >
