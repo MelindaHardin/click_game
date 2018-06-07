@@ -5,7 +5,8 @@ const styles = {
     height: 30,
     backgroundColor: "orange", 
     fontFamily: "Impact, Charcoal, sans-serif",
-    fontSize: 20
+    fontSize: 20,
+    clear: "left"
   }
 }
 const Footer = () => (

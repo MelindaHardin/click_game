@@ -6,7 +6,8 @@ const styles = {
     height: 75, 
     width: "100%",
     textAlign: "center",
-    position: "fixed"
+    position: "fixed",
+    zIndex: 1
   },
 
   home: {
