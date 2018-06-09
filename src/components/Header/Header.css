@@ -1,0 +1,25 @@
+.jumbotron {
+    height: 300;
+    background-image: url(https://www.extremetech.com/wp-content/uploads/2012/11/Cloud-640x353.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.display-4{
+    font-family: 'Times New Roman', Times, serif;
+    color: goldenrod;
+    font-weight: bolder;
+    font-size: 90;
+    padding: 50;
+    margin-top: 80px;
+}
+
+.lead {
+    font-family: 'Times New Roman', Times, serif;
+    color: goldenrod;
+    font-weight: bolder;
+    font-size: 15;
+    font-weight: 20;
+}

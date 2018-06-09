@@ -1,18 +1,10 @@
 import React from "react";
+import "./Footer.css";
 
-const styles = {
-   bottom: {
-    height: 30,
-    backgroundColor: "orange", 
-    fontFamily: "Impact, Charcoal, sans-serif",
-    fontSize: 20,
-    clear: "both"
-  }
-}
 const Footer = () => (
 
     <footer>
-        <p className="footer" style = {styles.bottom} >
+        <p className="footer">
         Click Game!
         </p>
     </footer>

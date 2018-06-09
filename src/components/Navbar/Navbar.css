@@ -1,0 +1,23 @@
+.navbar {
+   background-color: orange;
+   height: 15%;
+   width: 100%;
+   text-align: center;
+   position: fixed;
+   z-index: 1;
+   margin-top: 0 
+}
+
+.home {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.title, .score {
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    
+}
