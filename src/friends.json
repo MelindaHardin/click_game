@@ -1,86 +1,76 @@
 [
     {
         "id": 1,
-        "name": "SpongeBob",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-        "occupation": "Fry Cook",
-        "location": "A Pineapple Under the Sea"
+        "name": "Pepe Le Pew",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Pep%C3%A9_Le_Pew.svg/1200px-Pep%C3%A9_Le_Pew.svg.png"
     },
     {
         "id": 2,
-        "name": "Mr. Krabs",
-        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-        "occupation": "Restaurant Owner",
-        "location": "A Giant Anchor"
+        "name": "Elmer Fudd",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/ElmerFudd.gif/220px-ElmerFudd.gif"
+        
     },
     {
         "id": 3,
-        "name": "Squidward",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-        "occupation": "Cashier",
-        "location": "An Easter Island Head"
+        "name": "Sylvester the Cat",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Sylvester_the_Cat.svg/1200px-Sylvester_the_Cat.svg.png"
+        
     },
     {
         "id": 4,
-        "name": "Squidward",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-        "occupation": "Cashier",
-        "location": "An Easter Island Head"
+        "name": "Tweety Bird",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Tweety.svg/1200px-Tweety.svg.png"
+        
     },
     {
         "id": 5,
-        "name": "SpongeBob",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-        "occupation": "Fry Cook",
-        "location": "A Pineapple Under the Sea"
+        "name": "Foghorn Leghorn",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Foghorn_Leghorn.png"
+        
     },
     {
         "id": 6,
-        "name": "Mr. Krabs",
-        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-        "occupation": "Restaurant Owner",
-        "location": "A Giant Anchor"
+        "name": "Daffy Duck",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/1200px-Daffy_Duck.svg.png"
+        
     },
     {
         "id": 7,
-        "name": "Squidward",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-        "occupation": "Cashier",
-        "location": "An Easter Island Head"
+        "name": "Bugs Bunny",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/1200px-Bugs_Bunny.svg.png"
+        
     },
+
     {
         "id": 8,
-        "name": "Squidward",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-        "occupation": "Cashier",
-        "location": "An Easter Island Head"
-    },
+        "name": "Road Runner",
+        "image": "https://www.wbkidsgo.com/Portals/4/Images/Content/Characters/Road%20Runner/roadrunner-body.png"
+        
+    }, 
     {
         "id": 9,
-        "name": "SpongeBob",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-        "occupation": "Fry Cook",
-        "location": "A Pineapple Under the Sea"
-    },
+        "name": "Wile E. Coyote",
+        "image": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif/revision/latest?cb=20060219181853"
+        
+    }, 
     {
         "id": 10,
-        "name": "Mr. Krabs",
-        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-        "occupation": "Restaurant Owner",
-        "location": "A Giant Anchor"
-    },
+        "name": "Marvin the Martian",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Marvin_the_Martian.svg/1200px-Marvin_the_Martian.svg.png"
+        
+    }, 
     {
         "id": 11,
-        "name": "Squidward",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-        "occupation": "Cashier",
-        "location": "An Easter Island Head"
-    },
+        "name": "Tasmanian Devil",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Taz-Looney_Tunes.svg/1200px-Taz-Looney_Tunes.svg.png"
+        
+    }, 
+
     {
         "id": 12,
-        "name": "Squidward",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-        "occupation": "Cashier",
-        "location": "An Easter Island Head"
+        "name": "Porky Pig",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Porky_Pig.svg/1200px-Porky_Pig.svg.png"
+        
     }
+  
 ]
