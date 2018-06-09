@@ -12,14 +12,26 @@ class App extends Component {
   state = {
     friends,
     score: 0,
+    topScore: 0,
     clickedFriends: [],
   };
 
+ 
+
+
+
+
   // handleIncrement increases this.state.score by 1
   handleIncrement = () => {
-      
+
     // We always use the setState method to update a component's state
     this.setState({ score: this.state.score + 1 });
+
+    
+      this.state.friends.sort(() => {
+        return 0.5 - Math.random();
+      });
+   
 
   };
 
@@ -33,23 +45,23 @@ class App extends Component {
 
   render() {
     return (
-      <Wrapper> 
+      <Wrapper>
         <Navbar
           score={this.state.score}
-          />
+        />
         <Header />
         {this.state.friends.map(cartoonFriend => (
           <Cards
-          
+
             image={cartoonFriend.image}
             id={cartoonFriend.id}
             handleIncrement={this.handleIncrement}
           />
-        
+
         ))}
         <Footer />
       </Wrapper>
-      
+
     );
   }
 
