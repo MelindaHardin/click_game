@@ -8,7 +8,7 @@
     width: 210px;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     text-align: left;
-    float: left
+    cursor: pointer;
 
   }
   
@@ -17,6 +17,7 @@
     overflow: hidden;
     text-align: center;
     background:#6CADDC;
+    
   }
   .card > .img-container > img {
     width: 50%;

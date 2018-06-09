@@ -6,13 +6,13 @@ const styles = {
     backgroundColor: "orange", 
     fontFamily: "Impact, Charcoal, sans-serif",
     fontSize: 20,
-    clear: "left"
+    clear: "both"
   }
 }
 const Footer = () => (
 
     <footer>
-        <p class="footer" style = {styles.bottom} >
+        <p className="footer" style = {styles.bottom} >
         Click Game!
         </p>
     </footer>
