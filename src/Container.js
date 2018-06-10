@@ -6,7 +6,6 @@ const styles = {
     container: {
         width: "70%",
         alignContent: "center",
-        textAlign: "center",
         display: "block"
     }
 

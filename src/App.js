@@ -19,10 +19,10 @@ class App extends Component {
 
 
   handleClicked = id => {
-    if (this.state.clicked.indexOf(id) === -1) {
+    if(this.state.clicked.indexOf(id) === -1){
       this.handleIncrement();
-      this.setState({ clicked: this.state.clicked.concat(id) });
-    } else {
+      this.setState({clicked: this.state.clicked.concat(id)});
+    }else{
       this.handleLoss();
     }
   };
@@ -44,7 +44,7 @@ class App extends Component {
   handleLoss = () => {
     // We always use the setState method to update a component's state
     this.setState({ score: 0 });
-    alert ("test");
+    alert ("GAME OVER");
     
   };
 
