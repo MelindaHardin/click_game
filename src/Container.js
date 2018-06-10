@@ -4,7 +4,7 @@ import React from "react";
 const styles = {
 
     container: {
-        width: "80%",
+        width: "70%",
         alignContent: "center",
         textAlign: "center",
         display: "block"

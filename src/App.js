@@ -14,7 +14,7 @@ class App extends Component {
     friends,
     score: 0,
     topScore: 0,
-    clicked: [],
+    clicked:[]
   };
 
 
@@ -36,8 +36,7 @@ class App extends Component {
     this.state.friends.sort(() => {
       return 0.5 - Math.random();
     });
-
-    
+  
   };
 
 
@@ -45,7 +44,8 @@ class App extends Component {
   handleLoss = () => {
     // We always use the setState method to update a component's state
     this.setState({ score: 0 });
-    alert ("boo");
+    alert ("test");
+    
   };
 
   render() {
